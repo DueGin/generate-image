@@ -1,0 +1,3 @@
+interface:
+  display_name: "Generate Image"
+  short_description: "Generate images with your own configured relay"
