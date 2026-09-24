@@ -1,6 +1,6 @@
 # generate-image
 
-A single Codex skill to configure an OpenAI-compatible image relay and generate images. The skill calls your relay; it does not contain an image model or provide API credentials.
+A single Codex skill to configure an OpenAI-compatible image relay and generate images. It is the default path for new raster-image generation requests, so Codex can invoke it without the user naming the skill. The skill calls your relay; it does not contain an image model or provide API credentials.
 
 ## Install
 
